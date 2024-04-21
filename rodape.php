@@ -5,7 +5,7 @@
             <div class="col-lg-6 col-md-12 mb-4 mb-md-0 container">
                 <h5 class="text-uppercase text-center">Descrição</h5>
 
-                <p class="text-justify">
+                <p class="text-justify" >
                 ASystem está comprometida em fornecer soluções inovadoras e eficazes para os desafios tecnológicos do mundo moderno.
                 Estamos na vanguarda da inovação tecnológica,
                 impulsionando o futuro com soluções que transcendem as fronteiras da imaginação.
