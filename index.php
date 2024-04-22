@@ -9,6 +9,7 @@ include "topo.php";
         switch($p){
             case 1:
                 include "meio.php";
+                    $css = "meio.css";
                 break;
             case 2: 
                 include "notebooks.php";

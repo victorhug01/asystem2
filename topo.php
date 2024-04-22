@@ -20,7 +20,6 @@ require_once "conexao.php";
 <body>
   <div class="container-fluid">
     <div class="topo">
-
       <!-- Navbar Nova -->
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
@@ -32,7 +31,7 @@ require_once "conexao.php";
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.php?p=1"
+                <a class="nav-link active font-weight-bold" aria-current="page" href="index.php?p=1"
                   style="color: #842dd0; margin: 5px;">Início</a>
               </li>
               <li class="nav-item">

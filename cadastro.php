@@ -1,4 +1,4 @@
-<section class="mx-auto" style="background-color: #ffffff;">
+<section class="vh-100 d-flex align-content-center flex-wrap" style="background-color: #ffffff;">
   <div class="container">
     <div class="row d-flex justify-content-center align-items-center">
       <div class="col-lg-12 col-xl-11">
